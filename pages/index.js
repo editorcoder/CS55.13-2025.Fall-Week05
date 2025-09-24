@@ -1,8 +1,8 @@
 /*
 editorcoder
-2025-09-18
+2025-09-23
 SRJC CS55.13 Fall 2025
-Week 4: Assignment 5: Draft Basic Full-Stack App 
+Week 5: Assignment 6: Final Basic Full-Stack App
 index.js
 */
 
